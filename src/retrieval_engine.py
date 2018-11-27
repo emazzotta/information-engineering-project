@@ -1,3 +1,4 @@
+import math
 import re
 import xml.etree.ElementTree as ET
 from nltk.corpus import stopwords
@@ -23,13 +24,25 @@ def parse_trec(document):
 def min_distance(query, collection):
     search_terms = query.split(' ')
     document_words = collection.split(' ')
-
-    words_info = []
-
+    term_words = {}
+    non_term_words = {}
     word_index = 0
+
     for word in document_words:
-        word_index = word_index + 1
-        words_info.append({'index': word_index, 'word': word, 'min_distance': None})
+        word_index += 1
+        if word in search_terms:
+            term_words[word_index] = word
+        else:
+            non_term_words[word_index] = {'word': word, 'min_distance': None}
+
+    for term_index in term_words.keys():
+        for non_term_index, content in non_term_words.items():
+            new_distance = int(math.sqrt((term_index-non_term_index)**2))
+            prev_distance = content.get('min_distance')
+            content['min_distance'] = new_distance if prev_distance is None or prev_distance > new_distance else prev_distance
+            non_term_words[non_term_index] = content
+
+    return {data['word']: data['min_distance'] for data in non_term_words.values()}
 
 
 if __name__ == '__main__':
