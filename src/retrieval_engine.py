@@ -20,5 +20,5 @@ def parse_trec(document):
 
 if __name__ == '__main__':
     search_queries = parse_trec('documents/irg_queries.trec')
-    search_collections = parse_trec('documents/irg_collection.trec')
+    search_collections = parse_trec('documents/irg_collection_short.trec')
     print("hello")
