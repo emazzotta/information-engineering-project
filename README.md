@@ -18,11 +18,5 @@ for each document:
         else
             count distance to nearest word in searchterms
             map.put(word, min_distance)
-
-map.crop bottom 10% of total_word_count
-
-TF-IDF            
-
-            
-
-        
+    map.crop bottom 10% of total_word_count
+TF-IDF
