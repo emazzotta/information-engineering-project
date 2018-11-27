@@ -10,13 +10,12 @@ Kann ich durch Eliminierung von vermeindlich Tehemenirrelevanten Wörtern doe Hy
 
 ## Vorgehen
 
-for each document:
-    eliminate stop words
-    for each word in text:
-        if word in search_terms
-            next word
-        else
-            count distance to nearest word in searchterms
-            map.put(word, min_distance)
-    map.crop bottom 10% of total_word_count
-TF-IDF
+```bash
+eliminate stop words
+for each query
+    for each document
+        calculate distance from words in document to closest query word
+        remove bottom 10% most distant words
+        return TF-IDF
+```
+
