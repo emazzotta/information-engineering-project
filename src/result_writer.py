@@ -14,10 +14,10 @@ def output_formatter(results):
     return result_list
 
 
-if __name__ =='__main__':
+if __name__ == '__main__':
     result1 = Result(10, "Q0", "docNumber1", 1, 2.5)
     result2 = Result(10, "Q0", "docNumber2", 2, 2.2)
     test_results = [result1, result2]
-    result_list = output_formatter(test_results)
-    print(result_list[0])
-    print(result_list[1])
+    test_result_list = output_formatter(test_results)
+    print(test_result_list[0])
+    print(test_result_list[1])
