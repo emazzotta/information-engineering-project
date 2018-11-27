@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TREC>
+  <DOC>
+    <recordId>0</recordId>
+    <text>digital computers in universities (part i) july, 1960
+    reeves, r. f. ca600702 jb march 20, 1978 9:20 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>2</recordId>
+    <text>using synthetic images to register real images with
+    surface models a number of image analysis tasks can benefit
+    from registration of the image with a model of the surface
+    being imaged. automatic navigation using visible light or radar
+    images requires exact alignment of such images with digital
+    terrain models. in addition, automatic classification of
+    terrain, using satellite imagery, requires such alignment to
+    deal correctly with the effects of varying sun angle and
+    surface slope. even inspection techniques for certain
+    industrial parts may be improved by this means. we achieve the
+    required alignment by matching the real image with a synthetic
+    image obtained from a surface model and known positions of the
+    light sources. the synthetic image intensity is calculated
+    using the reflectance map, a convenient way of describing
+    surface reflection as a function of surface gradient. we
+    illustrate the technique using landsat images and digital
+    terrain models. november, 1978 horn, b.k.p. bachman, b.l. image
+    registration, synthetic images, surface models, automatic hill
+    shading, digital terrain models, image transformation, image
+    matching, shaded images 3.63 3.11 3.14 8.2 3.83 ca781104 dh
+    january 26, 1979 11:16 am</text>
+  </DOC>
+  <DOC>
+    <recordId>4</recordId>
+    <text>training library assistants in mauritius. the university
+    of mauritius with the financial help of the international
+    development research centre of canada (idrc) embarked on a 15
+    month experimental course in 1978 for the training of library
+    assistants who were already working in libraries. the main aim
+    of the experiment was to evolve a course of approximately 1
+    year taking 3 afternoons weekly, geared to local conditions and
+    using available resources. the experiment was a success and the
+    course, after minor alterations, was continued in 1981.</text>
+  </DOC>
+  <DOC>
+    <recordId>5</recordId>
+    <text>the electrostatic centre of a conductor</text>
+  </DOC>
+  <DOC>
+    <recordId>7</recordId>
+    <text>a note on the interpretation of transient echoes from the
+    ionosphere comment on a note by recent radio echo work on
+    meteors shows that a midday maximum is often observed in the
+    rate of occurrence of meteors observations with narrow beam
+    aerials on show that a tendency during the months for the main
+    peak to occur at is completely reversed from to when the major
+    peak occurs during the daytime</text>
+  </DOC>
+  <DOC>
+    <recordId>8</recordId>
+    <text>a history of public libraries in bolton from the
+    beginnings to 1974. (ph.d thesis). an outline of the municipal
+    development of bolton, lancashire, is followed by an account of
+    all public libraries known to have existed in the town before
+    the first public libraries act of 1850 in 1852. a detailed
+    evaluative history of the rate-supported public library service
+    is given, from the work of the first library committee in
+    1852-53 to the retirement of the chief librarian in
+    1974.</text>
+  </DOC>
+  <DOC>
+    <recordId>11</recordId>
+    <text>automated acquisitions systems' papers presented at the
+    lita institute-part 2. presents the concluding papers from the
+    lita institute on automated acquisitions. for abstracts of the
+    papers presented see the following serial numbers'.</text>
+  </DOC>
+  <DOC>
+    <recordId>13</recordId>
+    <text>a theorem on force free magnetic fields a variational
+    principle is proved which provides a more direct and
+    satisfactory approach than that given in of chandrasekhar and
+    woltjer</text>
+  </DOC>
+  <DOC>
+    <recordId>16</recordId>
+    <text>note on the back reaction term in ferromagnetic
+    relaxation equations a clarification is given of the status of
+    the last term of the equation proposed to a paper on the
+    analysis of ferromagnetic resonance line width in ferrites of
+    and</text>
+  </DOC>
+  <DOC>
+    <recordId>20</recordId>
+    <text>information services, popular culture, and the librarian'
+    promoting a contemporary learning perspective. contribution to
+    an issue devoted to popular culture and libraries. examines the
+    role of both the public and academic librarian as sources of
+    comprehensive information service to all patrons, contending
+    that effective service must be guided by 2 key principles' (1)
+    the general educational pursuits of contemporary people are
+    inner-directed and deserve access to an unrestricted store of
+    information; and (2) libraries must provide the broadest
+    possible spectrum of materials so that the public will perceive
+    the library as a reasonable, reliable source of information and
+    knowledge for all types of information needs.</text>
+  </DOC>
+  <DOC>
+    <recordId>21</recordId>
+    <text>survey of number of solar flares observed during the
+    international geophysical year the i g y flare data show a very
+    high rate of occurrence many of these flares would probably
+    have been classified as subflares by photographic
+    observers</text>
+  </DOC>
+  <DOC>
+    <recordId>24</recordId>
+    <text>experiments in text file compression a system for the
+    compression of data files, viewed as strings of characters, is
+    presented. the method is general, and applies equally well to
+    english, to pl/i, or to digital data. the system consists of an
+    encoder, an analysis program, and a decoder. two algorithms for
+    encoding a string differ slightly from earlier proposals. the
+    analysis program attempts to find an optimal set of codes for
+    representing substrings of the file. four new algorithms for
+    this operation are described and compared. various parameters
+    in the algorithms are optimized to obtain a high degree of
+    compression for sample texts. november, 1976 rubin, f. text
+    compression, data file compaction, huffman codes, n-gram
+    encoding, comparison of algorithms 3.7 3.73 4.33 ca761104 jb
+    january 3, 1978 3:26 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>26</recordId>
+    <text>polar cap absorption following the solar flare of july
+    the absorption records at saskatoon and ottawa during the pca
+    event showed short term recoveries of the cosmic noise level
+    which were associated with auroral disturbances it is suggested
+    that these recoveries were due to a magnetic screening of the
+    particles causing the pca events</text>
+  </DOC>
+  <DOC>
+    <recordId>27</recordId>
+    <text>trdiag (algorithm 17) september, 1960 sprague iii, c. d.
+    ca600906 jb march 20, 1978 8:45 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>28</recordId>
+    <text>microforms use in guardian royal exchange assurance.
+    paper presented and the micrographics in banking and insurance
+    seminar, bristol, mar 80. presents an outline of the structure
+    and organisation of the guardian royal exchange assurance
+    company, a composite insurance company dealing in all classes
+    of insurance. for legal reasons paper records are important,
+    since, although microfilm is accepted by courts, the evidence
+    on it may not be accepted. use of microfilm to save space in
+    keeping records has to be simple and cost-effective. a pilot
+    scheme was launched at 5 branches, using 16 of the largest and
+    most suitable tabulations for microfilm. a report on problems
+    in the use of microfilm was produced, highlighting resistance
+    to change, and criticisms of the microreader. a modified front
+    projection reader was obtained and was received with much
+    acclaim. the conversion of computer tabulated output to com is
+    reaching its conclusion, and the company is now looking at
+    conventional microfilming of p aper records.</text>
+  </DOC>
+  <DOC>
+    <recordId>29</recordId>
+    <text>chinese periodicals and newspapers. presents a brief
+    recent history and current survey of the publishing of
+    periodicals and newspapers in the chinese people's republic
+    resulting from a national library of australia study tour in
+    jan 80.</text>
+  </DOC>
+  <DOC>
+    <recordId>30</recordId>
+    <text>simulation and analysis of biochemical systems (iii.
+    analysis and pattern recognition) february, 1962 garfinkel, d.
+    polk, w. higgins, j. j. ochser, r. t. ca620210 jb march 20,
+    1978 3:43 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>32</recordId>
+    <text>bibliography of literature on mathematical simulation
+    about items are listed including books conference reports and
+    papers about references are to russian literature</text>
+  </DOC>
+  <DOC>
+    <recordId>34</recordId>
+    <text>the voltage ratio and output impedance of a ladder
+    network composed of similar elements simple expressions are
+    derived using thevenins theorem</text>
+  </DOC>
+  <DOC>
+    <recordId>36</recordId>
+    <text>three frequency measurements of auroral absorption the
+    ratio of the measured absorption of cosmic noise during auroral
+    events was measured on two pairs of frequencies near assuming
+    that the electron collision frequency as a function of height
+    is known the height at which the absorption occurs can be
+    estimated heights of were usual for intense auroral events but
+    lower heights were observed for cosmic ray events</text>
+  </DOC>
+  <DOC>
+    <recordId>39</recordId>
+    <text>electron densities in the ionosphere a fresh
+    interpretation of data obtained from rocket measurements bassed
+    on a breakdown in the independence of propagation of the
+    magneto ionic components of a signal transmitted from the
+    rocket gives an electron density curve in agreement with
+    records</text>
+  </DOC>
+  <DOC>
+    <recordId>40</recordId>
+    <text>investigation of the possibilities of a nonreactive
+    parallel connection of two oscillators in the short wave range
+    scattering matrices are used to calculate the characteristics
+    of three and four port networks and a comparison of their
+    suitability for parallel connection is made application to
+    waveguide circuits is discussed</text>
+  </DOC>
+  <DOC>
+    <recordId>43</recordId>
+    <text>sunspot and geomagnetic storm data derived from greenwich
+    observations includes explanatory notes and literature
+    references and some diagrams</text>
+  </DOC>
+  <DOC>
+    <recordId>44</recordId>
+    <text>note on the variations of atmospheric ozone as a function
+    of height observations confirming those of paetzold are
+    reported</text>
+  </DOC>
+  <DOC>
+    <recordId>46</recordId>
+    <text>bradford's law' theory, empiricism and the gaps between.
+    the problems encountered when attempting to match theoretical
+    and empirical studies of bradford's law are discussed.</text>
+  </DOC>
+  <DOC>
+    <recordId>47</recordId>
+    <text>theory of electric waves in inhomogeneous plasmas
+    dispersion functions are derived for longitudinal waves in
+    plasmas of variable electron density the special case of a
+    quasi neutral electron beam of spatially variable density is
+    discussed</text>
+  </DOC>
+  <DOC>
+    <recordId>49</recordId>
+    <text>the clip translator january, 1961 englund, d. clark, e.
+    ca610104 jb march 17, 1978 1:27 am</text>
+  </DOC>
+  <DOC>
+    <recordId>50</recordId>
+    <text>a simplified recombination scheme for the fibonacci buddy
+    system a simplified recombination scheme for the fibonacci
+    buddy system which requires neither tables nor repetitive
+    calculations and uses only two additional bits per buffer is
+    presented. june, 1975 cranston, b. thomas, r. fibonacci buddy
+    system, dynamic storage allocation, buddy system 3.89 4.32 4.39
+    ca750606 jb january 9, 1978 1:07 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>53</recordId>
+    <text>differentiating and integrating circuits with positive
+    operational feedback a general method of analysis and design is
+    presented and illustrated with a particular circuit</text>
+  </DOC>
+  <DOC>
+    <recordId>54</recordId>
+    <text>generalized appleton hartree equation for any degree of
+    ionization and application t the ionosphere the equation
+    derived is applicable to any variation of electron collision
+    frequency with electron speed and any degree of ionization
+    results for the ionosphere are compared with experimental data
+    e layer results can be explained by assuming a electron
+    temperature several times higher than the gas
+    temperature</text>
+  </DOC>
+  <DOC>
+    <recordId>56</recordId>
+    <text>string processing techniques the internal organization of
+    string processing systems is discussed. six techniques for data
+    structures are presented and evaluated on the basis of: (1)
+    creation of strings; (2) examination of strings; and (3)
+    alteration of strings. speed of operation, storage
+    requirements, effect on paging, and programmer convenience are
+    also considered. one of the techniques, single-word linked
+    blocks, is used in an example demonstrating an implementation
+    of a snobol string processing language on an ibm system/360.
+    july, 1967 madnick, s. e. ca670703 jb february 28, 1978 9:04
+    am</text>
+  </DOC>
+  <DOC>
+    <recordId>57</recordId>
+    <text>waveform computations by the time series method
+    discussion on paper abstracted in of january</text>
+  </DOC>
+  <DOC>
+    <recordId>58</recordId>
+    <text>thermoelectric generator description of a paraffin lamp
+    driven generator for use with battery type receivers the
+    outputs are for the vibrator ht unit and for heaters tapping is
+    also provided as being more efficient than pure metal thermd
+    semiconductor type thermoelements are mentiono couples</text>
+  </DOC>
+  <DOC>
+    <recordId>59</recordId>
+    <text>current fluctuation phenomena in current carrying sliding
+    contacts an account is given of an experimental investigation
+    of sliding contacts as sources of interference voltages the
+    dependence of the noise characteristics on sliding speed and
+    current intensity is examined most of the observed phenomena
+    have a thermal origin several ranges of operation involving
+    different mechanisms are distinguished</text>
+  </DOC>
+  <DOC>
+    <recordId>60</recordId>
+    <text>numerical properties of the ritz-trefftz algorithm for
+    optimal control in this paper the ritz-trefftz algorithm is
+    applied to the computer solution of the state regulator
+    problem. the algorithm represents a modification of the ritz
+    direct method and is designed to improve the speed of solution
+    and the storage requirements to the point where real-time
+    implementation becomes feasible. the modification is shown to
+    be more stable computationally than the traditional ritz
+    approach. the first concern of the paper is to describe the
+    algorithm and establish its properties as a valid and useful
+    numerical technique. in particular such useful properties as
+    definiteness and reasonableness of condition are established
+    for the method. the second part of the paper is devoted to a
+    comparison of the new techniques with the standard procedure of
+    numerically integrating a matrix riccati equation to determine
+    a feedback matrix. the new technique is shown to be
+    significantly faster for comparable accuracy. june, 1971
+    bosarge jr., w. e. johnson, o. g. splines, regulator problem,
+    control theory, numerical analysis 5.1 ca710604 jb february 3,
+    1978 10:12 am</text>
+  </DOC>
+  <DOC>
+    <recordId>61</recordId>
+    <text>a stabilized dc supply unit for output voltages of to a
+    circuit is described in which the whole of the output voltage
+    variation is available for controlling the amplifying valve so
+    that the gain is the same for any output voltage down to zero
+    the control valve is a pentode whose screen grid voltage is
+    stabilized by means of a stabilizer tube the filaments of the
+    amplifying valves which are also fed from this source have low
+    consumption variation of the output voltage is for mains
+    fluctuations up to</text>
+  </DOC>
+  <DOC>
+    <recordId>62</recordId>
+    <text>recommendations for constructing regional network systems
+    and building up regional library centres. recommendations for
+    constructing regional network systems and building up regional
+    library centres were put forward by the sub-committee on data
+    processing in conjunction with the library committee of the
+    german research society (deutche forschungsgemeinschaft). they
+    underline how necessary and urgent it is to build up regional
+    data processing networks for cooperative cataloguing in
+    libraries. regional networks provide the optimal means of
+    rationalising library work. these networks should not be
+    constructed in all 11 federal states but should be built up on
+    the existing 7 lending system regions; they would all be
+    connected in a national network. regional library centres would
+    form the national network and would have the following general
+    task areas' cataloguing and acquisition, central editing of
+    catalogues etc., data exchange with other central institutes
+    and networks, supplying ordered boo ks within the planned
+    national order system, developing systems and programmes for
+    the software of the regional network, and planning and
+    coordination.</text>
+  </DOC>
+  <DOC>
+    <recordId>63</recordId>
+    <text>information science in a ph.d. computer science program
+    this report contains recommendations on a sample course
+    curriculum in the general area of information organization and
+    information system design in a ph.d. computer science program.
+    the subject area is first briefly described, followed by a
+    listing of some desirable graduate-level courses. suitable
+    bibliographies are appended. february, 1969 salton, g. course
+    curriculum, graduate courses, university courses,computer
+    science curriculum, information science, information
+    organization, information retrieval, data retrieval, language
+    analysis, information processing 1.52 3.42 3.70 ca690211 jb
+    february 20, 1978 9:50 am</text>
+  </DOC>
+  <DOC>
+    <recordId>65</recordId>
+    <text>density of the atmosphere at heights between km and km
+    from analysis of artificial satellite orbits</text>
+  </DOC>
+  <DOC>
+    <recordId>69</recordId>
+    <text>computers in group theory: a survey computers are being
+    applied to an increasingly diverse range of problems in group
+    theory. the most important areas of application at present are
+    coset enumeration, subgroup lattices, automorphism groups of
+    finite groups, character tables, and commutator calculus. group
+    theory programs range from simple combinatorial or numerical
+    programs to large symbol manipulation systems. in this survey
+    the more important algorithms in use are described and
+    contrasted, and results which have been obtained using existing
+    programs are indicated. an extensive bibliography is included.
+    january, 1969 cannon, j. j. group theory, coset enumeration,
+    subgroup lattices, automorphism groups, character tables,
+    commutator calculus, topology, crystallography, permutation
+    groups, abelian groups, discrete mathematics, non-numerical
+    programming, symbol manipulation, survey 1.3 3.15 5.39 ca690101
+    jb february 20, 1978 1:27 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>70</recordId>
+    <text>an analogue computing circuit for the evaluation of the
+    ratio of two slowly varying potentials the circuit based on the
+    miller integrator is described in detail the computed ratio is
+    displayed as a meter deflection the use of feedback reduces the
+    sensitivity to valve characteristic variations the error is
+    less than of full scale deflection within wide input limits
+    computation of reciprocals and products may be performed by
+    means of similar circuits several possible applications of the
+    device are mentioned</text>
+  </DOC>
+  <DOC>
+    <recordId>71</recordId>
+    <text>third time lucky in putting patients first?. the (uk)
+    national health service is to be reorganised in 1982 for the
+    third time since the war. the 1974 concept of the health care
+    district as a health care community is to be the starting point
+    of the next reorganisation and many multi-district areas are to
+    be split, amalgamated or regrouped. librarians have developed
+    library services of the nhs as an information network, and much
+    of the country is now covered by regional networks
+    incorporating nhs and medical school libraries. the new
+    district health authorities may disrupt or cut services
+    altogether, nhs fails frequently to recognise the direct
+    contribution of library services to quality health care, and
+    some libraries could come under the administrators of
+    individual hospitals, although both the library association and
+    nhs regional librarians group advocate organisation on a
+    district rather than an institutional basis. librarians must be
+    seen to be contributing to health care and actively campaign
+    for recognition within the nhs.</text>
+  </DOC>
+  <DOC>
+    <recordId>72</recordId>
+    <text>equivalence of library qualifications' problems.
+    highlights the problems of lack of equivalence of
+    qualifications obtained from library schools in the developed
+    and developing countries and the barriers to the free flow of
+    librarians between countries. presents findings of the
+    commonwealth library association's (comla) working party on
+    reciprocity of qualifications presented in 1975 and criticisms
+    of its report at a comla seminar. discusses standardisation of
+    courses internationally and suggests that comla should research
+    standards for professional and sub-professional training, as
+    well as school libraries, and should produce an updated list of
+    schools reaching the required standards. also suggests that
+    individual countries could set up committees to advise
+    employers on foreign qualifications.</text>
+  </DOC>
+  <DOC>
+    <recordId>75</recordId>
+    <text>modern trends in analogue computation</text>
+  </DOC>
+  <DOC>
+    <recordId>78</recordId>
+    <text>the link between publishing and libraries in the union of
+    soviet socialist republics. describes the various ways in which
+    publishers and libraries work together in the soviet union,
+    this being an important means of ensuring the universal
+    availability of publications. the links between publishers and
+    libraries include, organisations of library distributors,
+    automated systems for the management of printing, the making-up
+    of acquisition of stocks, cataloguing and standardisation,
+    specialised publishing houses and joint conferences which are
+    held regularly to discuss common problems.</text>
+  </DOC>
+  <DOC>
+    <recordId>82</recordId>
+    <text>data input by question and answer a data input scheme for
+    a time-sharing computer is described in this paper. instead of
+    using format statements to determine the input, the computer
+    asks the user for the required values one at a time. the
+    computer converses with the user during the input process,
+    checks for errors, provides standard data, and allows editing
+    of values input. april, 1965 pyle, i. c. ca650410 jb march 7,
+    1978 3:48 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>83</recordId>
+    <text>international convention on cosmic rays the text is given
+    of over papers presented at a convention held at varenna the
+    subject matter is divided into the following groups solar and
+    geomagnetic effects on cosmic rays problems of origin
+    composition of primary radiation air showers and interactions
+    of cosmic radiation</text>
+  </DOC>
+  <DOC>
+    <recordId>86</recordId>
+    <text>cable library survey results. public service satellite
+    consortium conducted a survey of academic libraries, in 1980,
+    to study their data communications needs and services. 'cable
+    libraries' (catvlib) were identified as libraries connected to
+    local cable companies. a 2nd study aimed to determine to what
+    extent a national satellite cable library network might already
+    be in technical existence; how many libraries are presently
+    connected to cooperative cable companies with satellite
+    hardware and excess satellite receiver capacity and of that
+    number, how many cable libraries would be interested in
+    participating in satellite-assisted library services and
+    teleconferencing.</text>
+  </DOC>
+  <DOC>
+    <recordId>89</recordId>
+    <text>zzzz. describes the campaign by public librarians in
+    virginia to increase state aid with the help of a lobbyist. the
+    greatest victory was the creation of a joint subcommittee on
+    the funding of libraries.</text>
+  </DOC>
+  <DOC>
+    <recordId>91</recordId>
+    <text>compact list representation: definition, garbage
+    collection, and system implementation compact lists are stored
+    sequentially in memory, rather than chained with pointers.
+    since this is not always convenient, the swym system permits a
+    list to be chained, compact, or any combination of the two. a
+    description is given of that list representation and the
+    operators implemented (most are similar to those of lisp 1.5).
+    the system garbage collector attempts to make all lists
+    compact; it relocates and rearranges all of list storage using
+    temporary storage. this unique list-compacting garbage
+    collection algorithm is presented in detail. several classes of
+    the macros used to implement the system are described. finally,
+    consideration is given to those design factors essential to the
+    success of a plex processing system implementation. september,
+    1969 hansen, w. j. data structure, data representation, list
+    structure, list representation, list, compact list, garbage
+    collection, relocation, storage reclamation, macro, primitive
+    list operations, plex processing, plex, pointer, list
+    processing system, lisp, free storage 3.49 4.20 4.22 4.49 4.9
+    ca690902 jb february 15, 1978 5:01 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>92</recordId>
+    <text>excitation of plasma oscillations the apparent paradox
+    between the theory of bohm and gross and the experiments of
+    looney and brown on the excitation of plasma oscillations by
+    the two stream mechanism is resolved</text>
+  </DOC>
+  <DOC>
+    <recordId>95</recordId>
+    <text>the public service functions of serials. discusses many
+    of the possible responsibilities of and decisions relating to
+    the public use of serials collections. considers whether they
+    should be arranged in alphabetical or classification order;
+    factors affecting a decision to provide open stack collections
+    that will be immediately accessible for public use or closed
+    ones which are serviced on a paging system; and the reference
+    functions of serials work. finally, questions whether
+    periodicals ought to be allowed to circulate outside the
+    library.</text>
+  </DOC>
+  <DOC>
+    <recordId>96</recordId>
+    <text>a statistical study of lower atmospheric ionospheric
+    coupling the departures of the daily values of from the monthly
+    median were compared with the calculated large scale vertical
+    motion in the atmosphere at heights up to km no association
+    between the two parameters was found at five stations in canada
+    and the usa</text>
+  </DOC>
+  <DOC>
+    <recordId>98</recordId>
+    <text>complementary symmetry transistor circuits under normal
+    bias conditions the current which flows in each lead to an
+    electrode of a pnp transistor is the negative of the
+    corresponding current in an npn transistor this is termed
+    static symmetry the polarity of an input signal that will
+    increase conduction in a pnp transistor is the opposite of that
+    for an npn transistor this is termed dynamic symmetry circuits
+    are described that use static symmetry dynamic symmetry both
+    types of symmetry these include a stabilized direct coupled
+    class a amplifier with a voltage gain of a pulse circuit which
+    converts a half sine wave to pulses a class b power output
+    circuit using four transistors with overall feedback and giving
+    a gain of about db when working into a load and a television
+    vertical deflection system with a class b output stage
+    connected directly to the deflection yoke</text>
+  </DOC>
+  <DOC>
+    <recordId>99</recordId>
+    <text>on a macroscopic measurement of the spin of
+    electromagnetic radiation the spin of em radiation may be
+    deduced from the torque exerted at microwave frequencies by a
+    circularly polarized wave upon a screen which can conduct
+    current only parallel to a given direction see of calculations
+    are made of the angular momentum and scattering cross sections
+    of the screen and the feasibility of an accurate experiment is
+    discussed</text>
+  </DOC>
+  <DOC>
+    <recordId>100</recordId>
+    <text>analogue multipliers and squarers using a multigrid
+    modulator</text>
+  </DOC>
+  <DOC>
+    <recordId>101</recordId>
+    <text>the work with stock in a scientific and technical library
+    of an industrial corporation. the scientific and technical
+    library of the education department of the aleksandriyaugol'
+    corporation was established in 1960. the main task of the
+    library is to help workers increase their qualifications and
+    their ideological and political awareness. the library, with a
+    staff of 2 serves 1,100 users. the user group includes workers
+    attending the courses organised by the education department,
+    lecturers as well as the staff of other departments of the
+    corporation which do not have a library. the management of the
+    stock of the library (35,000 items) is discussed with emphasis
+    on planning and coordination of acquisition.</text>
+  </DOC>
+  <DOC>
+    <recordId>103</recordId>
+    <text>selective high frequency amplification with tunnel diodes
+    the design of a vhf fm tuner using tuner using tunnel diodes is
+    detailed</text>
+  </DOC>
+  <DOC>
+    <recordId>106</recordId>
+    <text>school resource management. implications for school
+    library service. prepared for submission to the new south wales
+    department of education to assist the department's officers in
+    their efforts to develop a cohesive statement on the role,
+    function, and staffing of school libraries. focuses on policy
+    issues in the area of school resource management in the context
+    of 3 tiers-the school level, regional level, and central
+    support services.</text>
+  </DOC>
+  <DOC>
+    <recordId>108</recordId>
+    <text>algol sub-committee report - extensions september, 1959
+    dijkstra, e. w. heise, w. perlis, j. a. samelson, k. ca590904
+    jb march 22, 1978 4:49 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>109</recordId>
+    <text>a double slab ferrite field displacement isolator at
+    brief description with performance figures of an isolator
+    comprising a waveguide with two slabs of ferrite arranged with
+    transverse symmetry and subjected to equal but oppositely
+    directed magnetic fields the forward loss is over most of the
+    range from to and varies by over any channel while the reverse
+    loss is</text>
+  </DOC>
+  <DOC>
+    <recordId>112</recordId>
+    <text>a formalism for translator interactions a formalism is
+    presented for describing the actions of processors for
+    programming languages-compilers, interpreters, assemblers-and
+    their interactions in complex systems such as
+    compiler-compilers or extendible languages. the formalism here
+    might be used to define and answer such a question as "can one
+    do bootstrapping using a meta-compiler whose metaphase is
+    interpretive?" in addition an algorithm is presented for
+    deciding whether or not a given system can be produced from a
+    given set of component processors. october, 1970 earley, j.
+    translator, compiler, interpreter, bootstrapping, language
+    processor, compiler-compiler 4.1 5.29 ca701002 jb february 10,
+    1978 9:36 am</text>
+  </DOC>
+  <DOC>
+    <recordId>113</recordId>
+    <text>the simultaneity of geomagnetic sudden impulses analysis
+    of several events during the igy shows that sudden impulses are
+    propagated from high latitudes to low latitudes in times of
+    about min</text>
+  </DOC>
+  <DOC>
+    <recordId>114</recordId>
+    <text>cavity resonator design charts charts applicable to
+    square section and to circular section cavities are
+    given</text>
+  </DOC>
+  <DOC>
+    <recordId>115</recordId>
+    <text>theory of single resonance parametric amplifiers a
+    parametric amplifier that supports a resonance at the idler
+    frequency only is capable of unlimited gain when operated
+    either as a straight through amplifier or as a lower sideband
+    ur converter this makes feasible a continuously tunable
+    parametric receiver</text>
+  </DOC>
+  <DOC>
+    <recordId>119</recordId>
+    <text>are county libraries threatened?. the norwegian
+    government report nou 1979 proposes that from 1981 state grants
+    towards county administration should cease, being replaced by
+    additional tax income. the intention is to simplify local
+    government financial structure and increase the counties'
+    administrative responsibility and autonomy. concentrating on
+    technical details, the report ignores their effect on
+    professions and employment in the areas concerned. cultural
+    work is defined as a voluntary activity for counties, not
+    requiring or meriting state support; libraries are considered
+    to be already under some degree of state supervision. state
+    support has been a stimulus to cultural life in rural areas,
+    and its removal would be a retrograde step. the proposals, if
+    implemented without further clarification of laws, regulations
+    and areas of responsibility, could lead to greatly varying
+    standards of library service in individual counties, also
+    affecting schools and adult education. this would be di rectly
+    counter to the 'equality principle' in the current library
+    act.</text>
+  </DOC>
+  <DOC>
+    <recordId>120</recordId>
+    <text>random number generator using subharmonic oscillators the
+    outputs of two oscillators driven from a common source are
+    combined in a hybrid ring the generator can produce random
+    binary digits at a maximum rate of digits sec</text>
+  </DOC>
+  <DOC>
+    <recordId>121</recordId>
+    <text>development of a center for biosystematics resources, nov
+    1979-oct 1980. the objective in the development of a center for
+    biosystematics resources is to provide a centralised source of
+    information regarding the biological expertise available in the
+    academic/museum community; and the federal and state
+    regulations concerning the acquisition, transport, and
+    possession of biological specimens. the heart of the center is
+    a series of data bases which contain information on biologists
+    and their areas of expertise, biological collections, annotated
+    federal regulations, and federal and state controlled species
+    lists.</text>
+  </DOC>
+  <DOC>
+    <recordId>125</recordId>
+    <text>a method for the solution of transportation problems with
+    tall matrices a method is presented for the solution of the
+    transportation problem having a cost matrix with few columns.
+    the computer implementation of this method shows it to be very
+    fast and efficient. application are indicted for the personnel
+    classification problem as well as the classical transportation
+    problem. an example is worked out in detail. april, 1967 dwyer,
+    p. s. galler, b. a. ca670405 jb february 28, 1978 11:25
+    am</text>
+  </DOC>
+  <DOC>
+    <recordId>127</recordId>
+    <text>design of series peaking transformers essential features
+    of this type of transformer are the load current is arranged to
+    be negligible compared with the magnetizing current and the
+    magnetizing current is allowed to reach a value much greater
+    than that required to saturate the core an easy and accurate
+    design method is presented which does not require an analytical
+    representation of the by bh characteristic the example of a
+    transformer to produce a voltage pulse of about for triggering
+    a thyratron is worked out numerically the voltage and duration
+    of the pulse can be predicted to within about of the measured
+    values</text>
+  </DOC>
+  <DOC>
+    <recordId>128</recordId>
+    <text>a cathode ray tube analogue to serial digital converter
+    small fluctuations of the cr tube screen equilibrium potential
+    cause proportionate fluctuations in the steady secondary
+    emission current arriving at a collector anode the parameters
+    affecting changes in this current are investigated using an
+    external electrode on the cr tube face to modulate the screen
+    potential experiments are described to determine minimum
+    electrode width and spacing consistent with the production of a
+    discrete pulse output from each electrode when a pattern is
+    scanned</text>
+  </DOC>
+  <DOC>
+    <recordId>132</recordId>
+    <text>a note on the set basis problem related to the compaction
+    of character sets this note discusses the reduction of the set
+    basis problem to the clique cover problem. november, 1975 kou,
+    l. t. wong, c. k. compaction of character sets, set basis, set
+    covering, computational complexity, polynomial completeness,
+    clique cover 4.9 5.25 5.39 ca751106 jb january 6, 1978 8:55
+    am</text>
+  </DOC>
+  <DOC>
+    <recordId>134</recordId>
+    <text>the effect of the earths oblateness on the orbit of a
+    near satellite the equations of motion of a satellite in an
+    orbit over an oblate earth in vacuo are solved analytically by
+    a perturbation method the solution applies primarily to orbits
+    of eccentricity or less the accuracy of the solution for radial
+    distance should then be about and the error in angular travel
+    about per revolution a brief comparison is made between theory
+    and observation for sputniks and</text>
+  </DOC>
+  <DOC>
+    <recordId>136</recordId>
+    <text>computer storage and retrieval of generic chemical
+    structures in patents. i. introduction and general strategy.
+    the strategy of an approach to representing and searching the
+    generic chemical formulas (markush formulas) typical of
+    chemical patents is outlined. the methods under development
+    involve the following stages' (1) the description of generic
+    chemical expressions by means of a formal language, gensal; an
+    approach to the generation and recognition of substituents or
+    radicals defined by generic nomenclatural expressions, via
+    formal grammars; (3) methods for automatic generation of screen
+    characteristics, individually and within the relational and
+    logical frameworks defined by generic formulas; (4) search
+    techniques for identification of specific structures and
+    substructures within generic formulas based on these
+    methods.</text>
+  </DOC>
+  <DOC>
+    <recordId>137</recordId>
+    <text>nonlinear effects on electron plasma oscillations a
+    nonlinear term in the boltzmann equation is considered as a
+    perturbation and the results are examined to investigate the
+    validity of the linear approximation</text>
+  </DOC>
+  <DOC>
+    <recordId>138</recordId>
+    <text>anisotropic field aligned ionization irregularities in
+    the ionosphere near the magnetic equator equatorial scatter
+    echoes were measured at huancayo during the i g y</text>
+  </DOC>
+  <DOC>
+    <recordId>142</recordId>
+    <text>magnetic regulation transistor power supply the method
+    uses saturable reactors in the input and load circuit of the
+    supply for close regulation a silicon diode reference voltage
+    may be used</text>
+  </DOC>
+  <DOC>
+    <recordId>144</recordId>
+    <text>electric charge separation in subfreezing cumuli a theory
+    of the electrification of thunderclouds on charge separation
+    occurring when supercooled droplets impinge on ice particles
+    the theory can explain observed charge separations without
+    assuming the presence of large hailstones</text>
+  </DOC>
+  <DOC>
+    <recordId>145</recordId>
+    <text>wave functions for impurity levels a general method of
+    solving difference equations arising in impurity calculations
+    is developed</text>
+  </DOC>
+  <DOC>
+    <recordId>148</recordId>
+    <text>igy progress report a general report of contributions
+    made by members of the rsgb to the igy program</text>
+  </DOC>
+  <DOC>
+    <recordId>149</recordId>
+    <text>radio emission from an atomic explosion in an atomic
+    explosion which is accompanied by asymmetric emission of quanta
+    radio waves are emitted due to the presence of a current in the
+    ionized air the duration of the oscillation in each halfwave is
+    of the order of for a given asymmetry in emission of the rays
+    the amplitude of the oscillations depends weakly on the total
+    number of quanta</text>
+  </DOC>
+  <DOC>
+    <recordId>151</recordId>
+    <text>etched wiring simplifies magnetic amplifier design</text>
+  </DOC>
+  <DOC>
+    <recordId>152</recordId>
+    <text>techniques of microminiaturizatio the techniques of
+    evaporated film and semiconductor solid state circuit design
+    are described and their merits discussed</text>
+  </DOC>
+  <DOC>
+    <recordId>154</recordId>
+    <text>a large semaphore based operating system the paper
+    describes the internal structure of a large operating system as
+    a set of cooperating sequential processes. the processes
+    synchronize by means of semaphores and extended semaphores
+    (queue semaphores). the number of parallel processes is
+    carefully justified, and the various semaphore constructions
+    are explained. the system is proved to be free of "deadly
+    embrace" (deadlock). the design principle is an alternative to
+    dijkstra's hierarchical structuring of operating systems. the
+    project management and the performance are discussed, too. the
+    operating system is the first large one using the rc 4000
+    multiprogramming system. july, 1975 lauesen, s. cooperating
+    processes, operating system, semaphores, semaphore
+    applications, queue semaphores, deadlock, deadly embrace,
+    hierarchical structuring, multiprogramming, operating system
+    structure, asynchronous structuring, buffering, parallel
+    processes, synchronizing primitives, reentrant code, rc 4000,
+    project management, time schedule, debugging, project planning,
+    project scheduling, reliability, program proving, coroutines,
+    correctness, program maintenance, software paging 4.30 4.31
+    4.32 4.42 4.43 5.24 ca750702 jb january 9, 1978 10:32 am</text>
+  </DOC>
+  <DOC>
+    <recordId>155</recordId>
+    <text>asymmetrical finite difference network for tensor
+    conductivities an extension of the technique described by
+    macneal of</text>
+  </DOC>
+  <DOC>
+    <recordId>156</recordId>
+    <text>influence of exchange interaction on paramagnetic
+    relaxation times</text>
+  </DOC>
+  <DOC>
+    <recordId>158</recordId>
+    <text>some circuit considerations of the transistor a detailed
+    discussion of the single stage transistor amplifier and in
+    particular of the unity coupler condition stability criteria
+    are also discussed since four useful varieties of a single
+    stage amplifier exist a two stage amplifier can take different
+    forms these are divided into four groups high power gain low
+    terminating resistance high terminating resistance and
+    bilateral type the latter is an emitter base base emitter
+    circuit and is suitable for obtaining high gains</text>
+  </DOC>
+  <DOC>
+    <recordId>162</recordId>
+    <text>high stability mains operated valve heater supply details
+    are given of a circuit using a high gain tuned amplifier with
+    feedback controlled by a thermistor bridge</text>
+  </DOC>
+  <DOC>
+    <recordId>163</recordId>
+    <text>cross relaxation in spin systems analysis of the
+    transition region of nearly equally spaced levels</text>
+  </DOC>
+  <DOC>
+    <recordId>164</recordId>
+    <text>character manipulation in 7090 fortran august, 1963
+    smith, d. d. ca630807 jb march 13, 1978 8:41 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>168</recordId>
+    <text>feedback amplifier design discussion of the pole pattern
+    required for a low pass amplifier with overall feedback
+    analysis is presented for an amplifier whose gain function
+    contains no internal zeros and for which the feedback fraction
+    is independent of frequency a general solution applicable to
+    any number of poles is obtained for the case of critical
+    damping for amplifiers with maximally flat response curves of
+    graphical solutions are given for systems with n poles where n
+    ranges from to the synthesis of a prescribed pole pattern is
+    considered and the method of realizing conjugate poles by
+    feedback pairs id described</text>
+  </DOC>
+  <DOC>
+    <recordId>170</recordId>
+    <text>the viewtel 202 experience in prestel. the experience
+    gained by the birmingham post and mail ltd in supplying
+    information for a videotex system is reported. viewtel 202 was
+    launched in oct 78 as an electronic newspaper carrying only
+    news and advertisements on 4,000 pages. 400,000 accesses per
+    month makes it the most successful organisation involved in
+    prestel. the incorporation of information from norway (bergens
+    tidende) is briefly mentioned. the lessons which have been
+    learnt through commercial involvement with videotex are
+    summarised.</text>
+  </DOC>
+  <DOC>
+    <recordId>173</recordId>
+    <text>the filming of complete musical stocks of historical
+    importance in smaller libraries not generally open to the
+    public, carried out by the german music history archive in
+    kassel. much of the valuable old manuscript and printed music
+    in germany is not owned by the state and only found in small
+    archives in castles, monasteries, churches and schools. with
+    the assistance of the volkswagen foundation, the archive is
+    working in north germany, microfilming these musical treasures,
+    cataloguing them and then making them available to the public.
+    important collections recently covered include' music in lubeck
+    public library from the 17th century north german school of
+    organ music and its 18th century successors; 18th century music
+    belonging to a noble family in eutin; 17th and 18th century
+    music in a school in jever. these collections have been
+    microfilmed and are now being catalogued.</text>
+  </DOC>
+  <DOC>
+    <recordId>175</recordId>
+    <text>the cobol librarian - a key to object program efficiency
+    many answers to the question "how may a cobol compiler be
+    forced into the generation of an efficient object program?" the
+    purpose of this article is to present one possible answer: the
+    creation and full utilization of a well-constructed cobol
+    library. may, 1962 hicks, w. ca620507 jb march 20, 1978 1:50
+    pm</text>
+  </DOC>
+  <DOC>
+    <recordId>176</recordId>
+    <text>properties of hook transistors in switching and
+    amplifying circuits an analysis is given of the most
+    significant properties of hook and pnpn transistors in common
+    base common emitter and commmon collector configurations
+    stagger tuned transistor video amplifiers</text>
+  </DOC>
+  <DOC>
+    <recordId>177</recordId>
+    <text>midf library. formed in mar 60, the malaysian industrial
+    development finance berhad (midf) has become the country's
+    leading development financing institution with 2 subsidiary and
+    2 associate companies and 7 branches. its library was
+    established in 1962 and grew rapidly as midf expanded. in 1972,
+    the malaysian industrial development finance industrial
+    consultants (midfic, one of the subsidiaries) set up a library.
+    the 2 libraries were merged in 1973. the library had 6,000
+    books and pamphlets, 485 periodical titles, 60 maps, 1,250
+    local and foreign public company and government institution
+    annual reports, 250 reports on industry, and 550 trade
+    catalogues. the emphasis is on current information. the library
+    runs current awareness, reference, literature search, simple
+    translation, and interlibrary loan services and is involved in
+    the small-scale industries information service.</text>
+  </DOC>
+  <DOC>
+    <recordId>181</recordId>
+    <text>networks. revised version of a paper presented to a
+    meeting on regional library cooperation in deventer, 19 nov 81.
+    in the netherlands cooperation amongst libraries of all types
+    has come under close examination as a result of the inclusion
+    of public library services in the proposed public services act.
+    the concept of library networks dates from the early 1900s when
+    the need for libraries to share their resources was recognised.
+    the most effective library networks are those networks which
+    operate their services on a financial basis. in addition, the
+    coordination of acquisition policies, cataloguing services and
+    interlibrary lending amongst members of a library network
+    requires the most up-to-date telecommunication and computer
+    equipment. within each network a central library should be
+    designated to act as a clearing-house for the transfer of
+    information.</text>
+  </DOC>
+  <DOC>
+    <recordId>186</recordId>
+    <text>a library is for the public. us public libraries
+    represent the ideal (goals which are always being pursued) and
+    the real (practices which must be followed lest nihilism
+    result). practicality has revealed that public libraries are
+    for all people, including the handicapped and those of all
+    races. this has resulted in the adjustment of libraries for the
+    accommodation of all, the expansion of services within the
+    library, and the extension of the library's facilities outside
+    its building. in this way, the real is realised and the ideal
+    is still pursued.</text>
+  </DOC>
+  <DOC>
+    <recordId>188</recordId>
+    <text>the stabilization of direct voltage supplies a functional
+    diagram is proposed by studying the control and stabilization
+    of a dc supply system under load and no load conditions</text>
+  </DOC>
+  <DOC>
+    <recordId>189</recordId>
+    <text>the role of the european commission in the information
+    environment. report by the director general for information
+    market and innovation, commission of the european communities
+    on the commission's role in the eec information
+    industry.</text>
+  </DOC>
+  <DOC>
+    <recordId>191</recordId>
+    <text>systematic indexing of the 2union catalogue of austrian
+    theses1. the 2union catalogue of austrian theses1 appears
+    annually and lists all approved theses from austrian
+    universities and polytechnics. since its inception in 1966
+    until 1975 the subject index was constructed from keywords in
+    the titles, but as from 1976 a specially designed systematic
+    subject classification has been in use. it is to some extent
+    based upon that in use at vienna's university and polytechnic,
+    and the new method of selecting and standardising subject
+    headings is described. there are also indexes of personal names
+    (as subjects of theses, not authors), and place names. indexing
+    is done manually, computerised indexing being too expensive.
+    cumulations will be made, the 1st for the period
+    1976-86.</text>
+  </DOC>
+  <DOC>
+    <recordId>192</recordId>
+    <text>the use of radio stairs to study irregular refraction of
+    radio waves in the ionosphere information from various sources
+    on the amplitude and phase scintillation of radio star
+    radiation is reviewed and the experimental data compared with
+    theory there is general agreement on most but not all of the
+    characteristics of the scintillation and its variation with
+    time and zenith angle the rate of scintillation increases under
+    magnetically disturbed conditions there is good correlation
+    with spread f ionospheric reflections and some with sporadic e
+    reflections the scale of the irregularities causing the
+    scintillation is of the order of a kilometre the most puzzling
+    problem is the cause of the night time maximum in scintillation
+    references</text>
+  </DOC>
+  <DOC>
+    <recordId>193</recordId>
+    <text>evaluation of information sources by experts. new items
+    acquired by the library of the altai motor building company are
+    evaluated by a group of experts-each expert is responsible for
+    the evaluation of a certain proportion of the new stock
+    (determined by the information staff). discusses the terms of a
+    competition organised for the experts engaged in the
+    evaluation. suggests that the help of the experts with the
+    evaluation of the stock made it possible to increase the
+    effectiveness of the information service provided.</text>
+  </DOC>
+  <DOC>
+    <recordId>194</recordId>
+    <text>dobis-wln impact study. report. the bcuc study team
+    examined 3 systems for possible application to the british
+    columbia union catalogue' washington library network, dobis as
+    implemented by college bibliocentre and dobis as implemented by
+    the national library of canada. it was found that none of the
+    systems would be usable by bcuc without some modification. the
+    national library version of dobis was selected with the
+    qualification that more initial work would be needed than the
+    others to bring it into production.</text>
+  </DOC>
+  <DOC>
+    <recordId>195</recordId>
+    <text>developments in blaise/locas. paper presented at a
+    one-day seminar on the university of london shared cataloguing
+    system, 3 apr 81. review of current and likely future
+    developments in blaise-locas, which include' the use of the
+    blaise on-line system in the context of locas; use by locas
+    users of the editor; amendment of ukmarc and lcmarc records,
+    their creation and their deletion.</text>
+  </DOC>
+  <DOC>
+    <recordId>196</recordId>
+    <text>on context and ambiguity in parsing* february, 1964 ross,
+    d. t. ca640212 jb march 10, 1978 3:43 am</text>
+  </DOC>
+  <DOC>
+    <recordId>197</recordId>
+    <text>transistor amplifier cut off frequency the effect of the
+    positive feedback associated with the internal base resistance
+    of a transistor on its cut off frequency is analysed expansion
+    of the expression for current gain in a taylor series shows
+    that only the phase shift in is important in reducing the cut
+    off frequency</text>
+  </DOC>
+  <DOC>
+    <recordId>198</recordId>
+    <text>an analysis on the diurnal variation of the terrestrial
+    magnetism especially on the day time variation of
+    geomagnetically quiet days</text>
+  </DOC>
+  <DOC>
+    <recordId>199</recordId>
+    <text>propagation of a pulse in a waveguide</text>
+  </DOC>
+  <DOC>
+    <recordId>202</recordId>
+    <text>towards a national research information service for
+    tanzania. documents initiatives taken to establish scientific
+    and technical information services in tanzania. the programme
+    has as a short term goal the establishment of a national
+    information service for research by the tanzania national
+    scientific research council with the cooperation and assistance
+    of the swedish royal institute of technology library. long term
+    goals envision the establishment and utilisation of modern
+    computer based methods. report not available from ntis.</text>
+  </DOC>
+  <DOC>
+    <recordId>204</recordId>
+    <text>smoothing 2 (algorithm 189) july, 1963 rodriguez gil, f.
+    ca630713 jb march 14, 1978 8:33 am</text>
+  </DOC>
+  <DOC>
+    <recordId>205</recordId>
+    <text>thermistor production short illustrated account of the
+    manufacture of bead type and rod type thermistors from powdered
+    mixtures of the oxides of ni mn and cu</text>
+  </DOC>
+  <DOC>
+    <recordId>211</recordId>
+    <text>random (algorithm 133) november, 1962 behrenz, p. g.
+    ca621105 jb march 17, 1978 6:53 pm</text>
+  </DOC>
+  <DOC>
+    <recordId>213</recordId>
+    <text>elliptic functions in network synthesis the jacobian
+    elliptic functions are used to solve the approximation problem
+    of network synthesis a unified design chart for image parameter
+    filters elliptic function filters and phase difference networks
+    is shown and tabular and graphical data emphasizing extreme
+    parameter values are given</text>
+  </DOC>
+  <DOC>
+    <recordId>214</recordId>
+    <text>a transistorized decade amplifier for low level audio
+    frequency applications national electronics conference
+    paper</text>
+  </DOC>
+  <DOC>
+    <recordId>215</recordId>
+    <text>stark effect resonant cavity microwave spectrograph the
+    construction and use of a cavity for a k band stark modulated
+    spectrograph are described the cavity is a circular cylinder of
+    variable length operating in the te modes see also of</text>
+  </DOC>
+  <DOC>
+    <recordId>218</recordId>
+    <text>connection between electron temperature determination by
+    means of the langmuir probe method and the two probe
+    method</text>
+  </DOC>
+  <DOC>
+    <recordId>220</recordId>
+    <text>a theory of spread f based on a scattering screen mod
+    oblique rays from the sounder are scattered by a scattering
+    screen into the f region whence they are reflected back to the
+    sounder for frequencies appreciably higher than the f region
+    penetration frequency there is a linear relation between the
+    minimum virtual height of the returned signal and the operating
+    frequency all virtual heights above this minimum value and
+    below the normal vertical incidence value are possible this
+    fact accounts for spread echoes being enclosed by two sharp
+    defined boundaries this hypothetical picture agrees with that
+    obtained from actual ionograms but requires that the screen be
+    above e region heights</text>
+  </DOC>
+  <DOC>
+    <recordId>221</recordId>
+    <text>compiling techniques for boolean expressions and
+    conditional statements in algol 60 january, 1961 huskey, h. d.
+    wattenburg, w. h. ca610115 jb march 17, 1978 1:12 am</text>
+  </DOC>
+  <DOC>
+    <recordId>222</recordId>
+    <text>geomagnetic and ionospheric phenomena associated with
+    nuclear explosions magnetograms and ionograms recorded at
+    stations in the central pacific ocean have been analysed for
+    the periods covering the explosions on and august some
+    geomagnetic variation could be explained by a dynamo effect
+    associated with wind velocities of miles sec and a ten fold
+    increase in electrical conductivity</text>
+  </DOC>
+  <DOC>
+    <recordId>223</recordId>
+    <text>on-line, new aid in reference work. reports on an
+    international conference on on-line information in public
+    libraries organised by the british library research and
+    development department and held in sept. 81. a number of
+    british public libraries have during the last 3 years carried
+    out experiments with the use of on-line systems. results of
+    these have been published in the british library's report
+    series and were discussed at the conference. the question of
+    payment for on-line searches was debated. the experience in
+    other countries was outlined, including the one from gentofte,
+    denmark. in luton central library, england, which formerly
+    subscribed to only a few conventional bibliographic services,
+    installation of on-line facilities has led to a large
+    expansion. new users have been attracted, the library's image
+    improved, and the ensuing good-will has been a useful tool in
+    the fight against cuts. the staff have become more cost
+    conscious and hence more careful in dealing with users, who
+    have been more thoroughly interviewed. more time is now spent
+    preparing the search strategy. the danger of redundancies as a
+    result of greater efficiency was therefore dismissed.</text>
+  </DOC>
+  <DOC>
+    <recordId>224</recordId>
+    <text>the care and feeding of bibliographic data. edited
+    version of the paper prepared as a result of the us library of
+    congress network advisory committee meeting on the ownership
+    and distribution of bibliographic data, spring 80. it is a
+    working document, designed to elicit comments from the library
+    and information services on the legal, political, and economic
+    implications of exchanging and sharing bibliographic data in
+    machine-readable form among a wide range of private and public
+    organisations. issues raised by the possibility of such
+    activities are listed in 3 categories-ownership/distribution of
+    bibliographic data, relationships among members of the
+    information community, and international flow of bibliographic
+    data. initial conclusions and recommendations are given.</text>
+  </DOC>
+  <DOC>
+    <recordId>226</recordId>
+    <text>measurement of noise in a maser amplifier measurements on
+    an beam maser whose cavity and input and output loads were
+    cooled to near liquid nitrogen temperature yielded a noise
+    figure of based on room temperature as compared with a
+    theoretical figure of</text>
+  </DOC>
+  <DOC>
+    <recordId>228</recordId>
+    <text>towards an alternative regional approach to libraries. in
+    the netherlands a change in government policy towards the
+    provision of regional library services is now becoming
+    apparent. in the government's view the increasing availability
+    of on-line information retrieval services will necessitate the
+    creation of a network of well-stocked libraries in each region.
+    in order to finance such a policy whilst local authorities are
+    suffering severe economic restraints, the government has
+    suggested that less attention should be given to the
+    recreational function of public libraries. in addition,
+    research by the bibliotheekraad (library advisory council) into
+    interlibrary lending in the netherlands has shown that there is
+    insufficient cooperation on acquisition policies amongst the
+    libraries of each region. in order to bring libraries together
+    in closer cooperation it will be necessary to overcome the
+    resistance of individual librarians and to change the present
+    law relating to public libraries.</text>
+  </DOC>
+  <DOC>
+    <recordId>230</recordId>
+    <text>an audio frequency phase modulator using pulse techniques
+    the range of phase shift of the carrier is and departure from
+    linearity as a function of the magnitude of modulation input is
+    less than</text>
+  </DOC>
+  <DOC>
+    <recordId>232</recordId>
+    <text>user education in academic libraries' a century in
+    retrospect. contribution to a thematic issue on library issue
+    instruction. examines the subject of user education in us
+    academic libraries from its historical perspective. credits
+    ralph waldo emerson with formulating the basic concept of
+    library instruction, and intertwines the development of
+    educational thought and philosophy with an increasing
+    consciousness of the need of users to understand libraries.
+    considers the importance of early 20th century experiments with
+    library user instruction, and reviews some of the conflicts
+    which emerged as stronger assertations were made in favour of
+    this instruction. argues that there is a continuing lack of
+    sound philosophical and theoretical foundations to support the
+    movement for library user instruction.</text>
+  </DOC>
+  <DOC>
+    <recordId>233</recordId>
+    <text>spikes on chopper transistor waveforms the effect of load
+    resistance and capacitance on spike feed through is
+    investigated and the amplitude and rise and fall times are
+    derived a spike test for chopper transistors is
+    recommended</text>
+  </DOC>
+  <DOC>
+    <recordId>235</recordId>
+    <text>estimating the life of a satellite</text>
+  </DOC>
+  <DOC>
+    <recordId>236</recordId>
+    <text>on artificial geomagnetic and ionospheric storms
+    associated with high altitude explosions the electron density
+    in the outer ionosphere sudden changes in the virtual height of
+    radio waves reflected from the e region of the ionosphere it is
+    shown that the lower level reflections are from thin layers
+    within the normal e region the changes in amplitude are used to
+    deduce the thickness of these layers and the electronic
+    collision frequency in the e region</text>
+  </DOC>
+  <DOC>
+    <recordId>241</recordId>
+    <text>the approximation problem of network synthesis a review
+    with references</text>
+  </DOC>
+  <DOC>
+    <recordId>242</recordId>
+    <text>atmospherics with very low frequency components</text>
+  </DOC>
+  <DOC>
+    <recordId>245</recordId>
+    <text>the description of contemporary administrative records. a
+    systematic presentation of the methods used at a french
+    regional archive. the characteristics of administrative records
+    as compared to mediaeval documents are discussed. details are
+    given of standard procedures effected on receipt of records for
+    deposit' the elements which constitute the initial
+    identification analysis are outlined; classification operations
+    illustrated in relation to the catalogues and indexes
+    maintained; and finally elimination practices described. the
+    necessity of establishing adequate tools for future research is
+    emphasised, although the essential operations involved are
+    time-consuming. documentary material illustrating all stages of
+    the record analysis is appended.</text>
+  </DOC>
+  <DOC>
+    <recordId>247</recordId>
+    <text>the tornedalen library. contribution to a section on
+    library services in nordkalotten, that part of scandinavia
+    within the arctic circle. tornedalen is the area in sweden
+    along the border with finland. the tornedalen library was
+    established in 1928 with the aim of providing 'good swedish
+    literature'. despite such attempts to 'swedify' the area, 70 of
+    the local population still have finnish as their mother tongue
+    and the library's aim today is to provide literature that local
+    people can read. 1/3 of its bookstock is in finnish and it has
+    a 5,500-item collection on nordkalotten. its 4 main functions
+    are' municipal public library for overtornea; folk high school
+    library; tornedalen regional library; and research
+    library.</text>
+  </DOC>
+  <DOC>
+    <recordId>248</recordId>
+    <text>the eta carinae nebula and centaurus part two physical
+    discussion of eta carinae nebula the temperature density and
+    mass of the object are inferred from observations of august and
+    other radio data</text>
+  </DOC>
+</TREC>
