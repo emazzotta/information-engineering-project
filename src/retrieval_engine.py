@@ -1,6 +1,8 @@
 import math
 import re
 import xml.etree.ElementTree as ET
+
+import nltk
 from nltk.corpus import stopwords
 
 
@@ -46,8 +48,14 @@ def min_distance(query, collection):
 
 
 if __name__ == '__main__':
+    # Load xml data
     search_queries = parse_trec('documents/irg_queries.trec')
     search_collections = parse_trec('documents/irg_collection_short.trec')
 
-    word_list = ["the", "quick", "brown", "fox", "jumped", "over", "the", "lazy", "dog", "."]
-    filtered_words = [word for word in word_list if word not in stopwords.words('english')]
+    # Remove stop words
+    nltk.download('stopwords')
+    for key, value in search_collections.items():
+        filtered = ' '.join([word for word in value.split(' ') if word not in stopwords.words('english')])
+        search_collections[key] = filtered
+
+    print("hello")
