@@ -11,11 +11,11 @@ Kann ich durch Eliminierung von vermeindlich Tehemenirrelevanten Wörtern doe Hy
 ## Vorgehen
 
 ```bash
+# Psuedocode
 eliminate stop words
 for each query
     for each document
         calculate distance from words in document to closest query word
-        remove bottom 10% most distant words
+        remove n-percentile most distant words
         return TF-IDF
 ```
-

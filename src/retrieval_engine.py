@@ -63,8 +63,9 @@ def retrieve_results(n_percentile):
 
         rank = 1
         for document_id, document_scores in sorted(document_scores.items(), key=lambda kv: kv[1], reverse=True):
-            document_results.append(Result(search_query_id, document_id, rank, document_scores))
-            rank += 1
+            if rank <= 1000:
+                document_results.append(Result(search_query_id, document_id, rank, document_scores))
+                rank += 1
 
     result_writer(document_results, f'IE_result_keep_{int(n_percentile*100)}_percentile.trec')
     print('Done')
