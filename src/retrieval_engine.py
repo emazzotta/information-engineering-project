@@ -6,6 +6,8 @@ from nltk.corpus import stopwords
 from nltk.text import TextCollection
 
 from src.math_tools import min_distance, percentile
+from src.result import Result
+from src.result_writer import result_writer
 
 
 def clean_text(query):
@@ -42,7 +44,6 @@ def retrieve_results():
     search_collections = {200: 'haha the sky is so lol blue', 300: 'lol this is a test', 400: 'hmm test'}
 
     # TF-IDF
-    queries_scores = {}
     for search_query_id, search_query_text in search_queries.items():
         terms = search_query_text.split(' ')
         documents = remove_n_percentile_most_farthest_words(search_collections, search_query_text, n=0.9)
@@ -52,9 +53,16 @@ def retrieve_results():
             for term in terms:
                 current_score = document_scores.get(document_id, 0.0)
                 document_scores[document_id] = current_score + search_texts_collection.tf_idf(term, document_text)
-        queries_scores[search_query_id] = document_scores
 
-    print("hello")
+        document_results = []
+        rank = 1
+        for document_id, document_scores in sorted(document_scores.items(), key=lambda kv: kv[1], reverse=True):
+            document_results.append(Result(search_query_id, document_id, rank, document_scores))
+            rank += 1
+
+        result_writer(document_results, 'test.txt')
+
+    print("Done")
 
 
 def remove_n_percentile_most_farthest_words(search_collections, query_text, n):
