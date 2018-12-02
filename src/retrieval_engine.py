@@ -35,14 +35,18 @@ def eliminate_stopwords(search_collections):
     return search_collections
 
 
-def retrieve_results():
+def retrieve_results(n_percentile):
     search_queries = parse_trec('documents/irg_queries.trec')
     search_collections = parse_trec('documents/irg_collection_clean.trec')
     # search_collections = parse_trec('documents/irg_collection_short.trec')
     # search_collections = eliminate_stopwords(search_collections)
     # write_collection_doc(search_collections, 'documents/irg_collection_clean.trec')
 
-    n_percentile = 1
+    print('======= Statistics =======')
+    print(f'Queries: {len(search_queries)}')
+    print(f'Collections: {len(search_collections)}')
+    print(f'Removal of {int((1-n_percentile)*100)}%-ile')
+    print('==========================')
 
     # TF-IDF
     document_results = []
@@ -62,7 +66,7 @@ def retrieve_results():
             document_results.append(Result(search_query_id, document_id, rank, document_scores))
             rank += 1
 
-    result_writer(document_results, f'IE_result_keep_{n_percentile}_percentile.trec')
+    result_writer(document_results, f'IE_result_keep_{int(n_percentile*100)}_percentile.trec')
     print('Done')
 
 
@@ -77,4 +81,5 @@ def keep_n_percentile_most_relevant_words(search_collections, query_text, n):
 
 
 if __name__ == '__main__':
-    retrieve_results()
+    for i in [x / 100.0 for x in range(10, 101, 10)]:
+        retrieve_results(i)
