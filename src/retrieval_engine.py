@@ -37,14 +37,15 @@ def eliminate_stopwords(search_collections):
 
 def retrieve_results():
     search_queries = parse_trec('documents/irg_queries.trec')
-    search_collections = parse_trec('documents/irg_collection_short.trec')
-    search_collections = eliminate_stopwords(search_collections)
-
-    search_queries = {1: 'lol test', 2: 'test'}
-    search_collections = {200: 'haha the sky is so lol blue', 300: 'lol this is a test', 400: 'hmm test'}
+    search_collections = parse_trec('documents/irg_collection_clean.trec')
+    # search_collections = parse_trec('documents/irg_collection_short.trec')
+    # search_collections = eliminate_stopwords(search_collections)
+    # write_collection_doc(search_collections, 'documents/irg_collection_clean.trec')
 
     # TF-IDF
+    document_results = []
     for search_query_id, search_query_text in search_queries.items():
+        print(f'Current query id: {search_query_id}, text: "{search_query_text}')
         terms = search_query_text.split(' ')
         documents = remove_n_percentile_most_farthest_words(search_collections, search_query_text, n=0.9)
         document_scores = {}
@@ -54,15 +55,13 @@ def retrieve_results():
                 current_score = document_scores.get(document_id, 0.0)
                 document_scores[document_id] = current_score + search_texts_collection.tf_idf(term, document_text)
 
-        document_results = []
         rank = 1
         for document_id, document_scores in sorted(document_scores.items(), key=lambda kv: kv[1], reverse=True):
             document_results.append(Result(search_query_id, document_id, rank, document_scores))
             rank += 1
 
-        result_writer(document_results, 'test.txt')
-
-    print("Done")
+    result_writer(document_results, 'result.trec')
+    print('Done')
 
 
 def remove_n_percentile_most_farthest_words(search_collections, query_text, n):
