@@ -63,10 +63,6 @@ def remove_n_percentile_most_farthest_words(search_collections, query_text, n):
         distances = min_distance(query_text, search_collection_text)
         worst_percentile = int(percentile(sorted(distances.values()), percent=n))
         new_words = ' '.join([word for word in search_collection_text.split(' ') if distances[word] <= worst_percentile])
-        if len(new_words) != len(search_collection_text):
-            print('Change detected!')
-            print(f'Search query: {query_text}')
-            print(f'Search collection: {search_collection_text}')
         result.update({search_collection_id: new_words})
     return result
 

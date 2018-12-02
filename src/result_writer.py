@@ -1,23 +1,18 @@
 from src.result import Result
 
 
-def output_formatter(results):
-    result_list = []
-    for result in results:
-        result_formatted = str(result.query_id)
-        result_formatted += " " + result.iteration
-        result_formatted += " " + result.doc_number
-        result_formatted += " " + str(result.rank)
-        result_formatted += " " + str(result.score)
-        result_formatted += " " + result.system
-        result_list.append(result_formatted)
-    return result_list
+def format_result(data):
+    formatted = str(data.query_id)
+    formatted += f' {data.iteration}'
+    formatted += f' {data.doc_number}'
+    formatted += f' {str(data.rank)}'
+    formatted += f' {str(data.score)}'
+    formatted += f' {data.system}'
+    return formatted
 
 
 if __name__ == '__main__':
-    result1 = Result(10, "Q0", "docNumber1", 1, 2.5)
-    result2 = Result(10, "Q0", "docNumber2", 2, 2.2)
-    test_results = [result1, result2]
-    test_result_list = output_formatter(test_results)
-    print(test_result_list[0])
-    print(test_result_list[1])
+    result1 = Result(10, 'docNumber1', 1, 2.5)
+    result2 = Result(10, 'docNumber2', 2, 2.2)
+    for result in [result1, result2]:
+        print(format_result(result))

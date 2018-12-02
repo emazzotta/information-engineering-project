@@ -34,7 +34,6 @@ def min_distance(query, collection):
     for word in document_words:
         word_index += 1
         if word in search_terms:
-            print('Found term!')
             term_words[word_index] = word
         else:
             non_term_words[word_index] = {'word': word, 'min_distance': None}
