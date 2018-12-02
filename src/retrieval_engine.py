@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 
 import nltk
 from nltk.corpus import stopwords
+from nltk.text import TextCollection
 
 from src.math_tools import min_distance, percentile
 
@@ -41,7 +42,15 @@ def retrieve_results():
     query_collection_store = remove_n_percentile_most_farthest_words(search_collections, search_queries, n=0.9)
 
     # TF-IDF
-    print("TF-IDF")
+    search_query_tf_idfs = {}
+    for search_query_id, search_query_text in search_queries.items():
+        search_query_text_list = search_query_text.split(' ')
+        search_texts_collection = TextCollection(query_collection_store[search_query_id])
+        tf_idf_scores = {}
+        for search_query_term in search_query_text_list:
+            term = TextCollection(search_query_term)
+            tf_idf_scores[search_query_term] = search_texts_collection.tf_idf(term)
+        search_query_tf_idfs[search_query_id] = tf_idf_scores
 
 
 def remove_n_percentile_most_farthest_words(search_collections, search_queries, n):
@@ -58,6 +67,7 @@ def remove_n_percentile_most_farthest_words(search_collections, search_queries, 
                 print(f'Search collection: {search_collection_text}')
             specific_collection.append(new_words)
         query_collection_store[search_query_id] = specific_collection
+
     return query_collection_store
 
 
