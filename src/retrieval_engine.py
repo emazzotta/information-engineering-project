@@ -42,12 +42,14 @@ def retrieve_results():
     # search_collections = eliminate_stopwords(search_collections)
     # write_collection_doc(search_collections, 'documents/irg_collection_clean.trec')
 
+    n_percentile = 1
+
     # TF-IDF
     document_results = []
     for search_query_id, search_query_text in search_queries.items():
-        print(f'Current query id: {search_query_id}, text: "{search_query_text}')
+        print(f'Current query id: {search_query_id}, text: "{search_query_text}"')
         terms = search_query_text.split(' ')
-        documents = remove_n_percentile_most_farthest_words(search_collections, search_query_text, n=0.9)
+        documents = keep_n_percentile_most_relevant_words(search_collections, search_query_text, n=n_percentile)
         document_scores = {}
         search_texts_collection = TextCollection(documents.values())
         for document_id, document_text in documents.items():
@@ -60,11 +62,11 @@ def retrieve_results():
             document_results.append(Result(search_query_id, document_id, rank, document_scores))
             rank += 1
 
-    result_writer(document_results, 'result.trec')
+    result_writer(document_results, f'IE_result_keep_{n_percentile}_percentile.trec')
     print('Done')
 
 
-def remove_n_percentile_most_farthest_words(search_collections, query_text, n):
+def keep_n_percentile_most_relevant_words(search_collections, query_text, n):
     result = {}
     for search_collection_id, search_collection_text in search_collections.items():
         distances = min_distance(query_text, search_collection_text)
