@@ -51,4 +51,4 @@ def min_distance(query, collection):
             content['min_distance'] = len(non_term_words)
             non_term_words[non_term_index] = content
 
-    return {data['word']: data['min_distance'] for data in non_term_words.values()}
+    return dict({data['word']: data['min_distance'] for data in non_term_words.values()}, **{term_word: 0 for term_word in term_words.values()})

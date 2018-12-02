@@ -37,14 +37,28 @@ def retrieve_results():
     search_collections = parse_trec('documents/irg_collection_short.trec')
     search_collections = eliminate_stopwords(search_collections)
 
-    # Remove worst 10%-ile => 90%-ile most farthest
-    for search_query_id, search_query_text in search_queries.items():
-        for search_collection_id, search_collection_text in search_collections.items():
-            distances = min_distance(search_query_text, search_collection_text)
-            worst_10_percentile = int(percentile(sorted(distances.values()), percent=0.9))
-            new_words = [word for word, distance in distances.items() if distance <= worst_10_percentile]
+    # id: search query id, value: list of search collection texts
+    query_collection_store = remove_n_percentile_most_farthest_words(0.9, search_collections, search_queries)
 
     # TF-IDF
+    print("TF-IDF")
+
+
+def remove_n_percentile_most_farthest_words(n, search_collections, search_queries):
+    query_collection_store = {}
+    for search_query_id, search_query_text in search_queries.items():
+        specific_collection = []
+        for search_collection_id, search_collection_text in search_collections.items():
+            distances = min_distance(search_query_text, search_collection_text)
+            worst_percentile = int(percentile(sorted(distances.values()), percent=n))
+            new_words = ' '.join([word for word in search_collection_text.split(' ') if distances[word] <= worst_percentile])
+            if len(new_words) != len(search_collection_text):
+                print('Change detected!')
+                print(f'Search query: {search_query_text}')
+                print(f'Search collection: {search_collection_text}')
+            specific_collection.append(new_words)
+        query_collection_store[search_query_id] = specific_collection
+    return query_collection_store
 
 
 if __name__ == '__main__':
