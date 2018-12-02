@@ -38,13 +38,13 @@ def retrieve_results():
     search_collections = eliminate_stopwords(search_collections)
 
     # id: search query id, value: list of search collection texts
-    query_collection_store = remove_n_percentile_most_farthest_words(0.9, search_collections, search_queries)
+    query_collection_store = remove_n_percentile_most_farthest_words(search_collections, search_queries, n=0.9)
 
     # TF-IDF
     print("TF-IDF")
 
 
-def remove_n_percentile_most_farthest_words(n, search_collections, search_queries):
+def remove_n_percentile_most_farthest_words(search_collections, search_queries, n):
     query_collection_store = {}
     for search_query_id, search_query_text in search_queries.items():
         specific_collection = []
