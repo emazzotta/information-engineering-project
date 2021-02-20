@@ -6,7 +6,7 @@ Durch streichen von Wörter, die nicht relevant sind, werden die Resultate relev
 
 ## Forschungsfrage
 
-Kann ich durch Eliminierung von vermeindlich Tehemenirrelevanten Wörtern doe Hypothese verifizieren?
+Kann ich durch Eliminierung von vermeindlich Themenirrelevanten Wörtern die Hypothese verifizieren?
 
 ## Vorgehen
 
