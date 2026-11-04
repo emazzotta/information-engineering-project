@@ -6,7 +6,7 @@ def should_calculate_simple_word_distances():
     search_collection = 'x y z a b c'
     result = min_distance(search_query, search_collection)
     assert result == {
-        'x': {'distance': 2, 'occurrence': 1}, 'y': 1, 'z': 0, 'a': 1, 'b': 2, 'c': 3
+        'x': 2, 'y': 1, 'z': 0, 'a': 1, 'b': 2, 'c': 3
     }
 
 
