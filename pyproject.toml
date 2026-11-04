@@ -1,0 +1,13 @@
+[project]
+name = "information-engineering-project"
+version = "0.1.0"
+description = "Information retrieval experiment: TF-IDF ranking after removing query-irrelevant words"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk==3.10.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.2.0",
+]
